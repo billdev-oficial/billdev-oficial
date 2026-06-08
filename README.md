@@ -6,7 +6,7 @@
 
 *Venho do chão de fábrica. Aprendi que tecnologia resolve problemas reais.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosbill-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/carlosbill)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosbilll-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/carlosbilll)
 [![Email](https://img.shields.io/badge/Email-billdevoficial@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:billdevoficial@gmail.com)
 
 </div>
