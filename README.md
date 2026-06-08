@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Estou na **CCL Industries há 6 anos**, onde comecei como revisor de rótulos e hoje atuo na operação de blindagem. Nesse caminho, desenvolvi uma visão analítica de processos produtivos e o hábito de identificar problemas e buscar soluções.
+Estou na **CCL há 6 anos**, onde comecei como revisor de rótulos e hoje atuo na operação de blindagem. Nesse caminho, desenvolvi uma visão analítica de processos produtivos e o hábito de identificar problemas e buscar soluções.
 
 Quando percebi que o controle de quebra do setor era feito à mão, em papel, aprendi as ferramentas por conta própria e transformei aquilo em uma planilha estruturada que **o setor utiliza até hoje**. Esse episódio me mostrou onde eu quero estar.
 
@@ -38,7 +38,7 @@ Orientação a Objetos · Estrutura de Dados · SQL · .NET
 
 ## Projetos
 
-### 🏭 [Controle de Produção CCL](https://github.com/carlosbill/controle-producao)
+### 🏭 [Controle de Produção CCL](https://github.com/carlosbill/ControleDeProducao)
 
 > Solução desenvolvida em C# para controle de quebra e perda de materiais no processo produtivo industrial.
 
