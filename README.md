@@ -38,7 +38,7 @@ Orientação a Objetos · Estrutura de Dados · SQL · .NET
 
 ## Projetos
 
-### 🏭 [Controle de Produção CCL](https://github.com/carlosbill/ControleDeProducao)
+### 🏭 [Controle de Produção CCL](https://github.com/billdev-oficial/ControleDeProducao)
 
 > Solução desenvolvida em C# para controle de quebra e perda de materiais no processo produtivo industrial.
 
